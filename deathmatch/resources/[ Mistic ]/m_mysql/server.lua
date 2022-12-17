@@ -1,8 +1,8 @@
 local DBHandler=nil
-local DBName="db_88208"
-local DBUser="db_88208"
-local DBPass="ADew6nusfuaF"
-local DBHost="137.74.6.118"
+local DBName="stegna_user"
+local DBUser="stegna_user"
+local DBPass="OkB00mer"
+local DBHost="okB00mer"
 
 function dbSet(...)
 	if not {...} then return end
