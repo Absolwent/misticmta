@@ -1,0 +1,18 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="editbox.lua" type="client" cache="false"/>
+
+	<file src="fonts/popins_b.ttf"/>
+	<file src="fonts/popins_r.ttf"/>
+        <file src="fonts/Montserrant_b.ttf"/>
+        <file src="fonts/Montserrant_r.ttf"/>
+
+	<export function="getFont" type="client"/>
+	<export function="dxCreateEdit" type="client"/>
+	<export function="dxDestroyEdit" type="client"/>
+	<export function="dxGetEditText" type="client"/>
+	<export function="dxSetEditText" type="client"/>
+	<export function="dxSetEditAlpha" type="client"/>
+	<export function="dxEditGetSelected" type="client"/>
+	<export function="dxSetEditPosition" type="client"/>
+</meta>

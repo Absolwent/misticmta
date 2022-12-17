@@ -1,0 +1,11 @@
+function replaceModel()
+local txd = engineLoadTXD('avtoshkola.txd',true)
+engineImportTXD(txd, 1853)
+local dff = engineLoadDFF('avtoshkola.dff', 0)
+engineReplaceModel(dff, 1853)
+local col = engineLoadCOL('avtoshkola.col')
+engineReplaceCOL(col, 1853)
+engineSetModelLODDistance(1853, 500)
+end
+addEventHandler('onClientResourceStart', getResourceRootElement(getThisResource()), replaceModel)
+addCommandHandler('reloadcar', replaceModel)

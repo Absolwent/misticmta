@@ -1,0 +1,22 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" />
+
+	<file src="files/sounds/1.mp3" />
+	<file src="files/sounds/2.mp3" />
+	<file src="files/sounds/3.mp3" />
+
+	<file src="files/background.png" />
+	<file src="files/logo.png" />
+	<file src="files/editbox.png" />
+	<file src="files/login_bg.png" />
+	<file src="files/i_user.png" />
+	<file src="files/i_pass.png" />
+        <file src="files/cb_false.png"/>
+        <file src="files/cb_true.png"/>
+        <file src="files/huge_btn.png"/>
+        <file src="files/register_bg.png"/>
+        <file src="files/reg_btnON.png"/>
+        <file src="files/i_email.png"/>
+        <file src="files/reg_btnBACK.png"/>
+</meta>

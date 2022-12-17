@@ -1,0 +1,7 @@
+<meta>
+    <script src="c_cmd.lua" type="client" cache="false"/>
+    <script src="s_cmd.lua" type="server"/>
+    <script src="s_kary.lua" type="server"/>
+    <script src="c_airbrake.lua" type="client" cache="false"/>
+    <file src="files/crash.mp3"/>
+</meta>

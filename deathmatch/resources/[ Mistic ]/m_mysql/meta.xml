@@ -1,0 +1,5 @@
+<meta>
+	<export function="dbSet" type="server" />
+	<export function="dbGet" type="server" />
+	<script src="server.lua" type="server" cahce="false" />
+</meta>

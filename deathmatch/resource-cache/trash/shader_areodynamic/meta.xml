@@ -1,0 +1,30 @@
+<meta>
+    <!--
+    ***************************************************************************************************
+    * Draft resource by Eddie Eezo <eddie.eezo@gmail.com>
+    * 
+    * When one car is driving behind another, it will experience less air resistance, making it 
+    * possible to reach higher speeds more easily or even overtake the car in front. That is what
+    * this resource tries to simulate - a nice little asset to race gamemodes, but also really fun
+    * for simply cruising around with fast cars.
+    * Permission is hereby granted to use and modify this code in any way you want, just please don't
+    * re-release it and claim it to be your own.
+    ***************************************************************************************************
+    -->
+    <info author="Eddie Eezo" name="Draft" version="1.0" type="script" />
+    <script src="draft.lua" />
+    <script src="draft_client.lua" type="client" />
+    
+    <file src="draft.png" />
+    
+    <settings>
+        <!-- If you change any of these settings (even using the get/set functions), you have to restart the resource for it to have any effect. -->
+        <setting name="*draftInterval" value="[500]" friendlyname="Draft Interval" desc="Draft interval in milliseconds. Lower values will mean more precision, but also more network traffic." />
+        
+        <setting name="*draftMaxDistance" value="[50]" friendlyname="Max Draft Distance" desc="Maximum Draft Distance. Higher values mean you can draft from farther away." />
+        
+        <setting name="*draftDisplayThreshold" value="[0.7]" friendlyname="Draft Display Threshold" desc="The minimum draft factor where the draft image will be displayed on-screen." />
+        
+        <setting name="*draftMultiplier" value="[0.9]" friendlyname="Draft Multiplier" desc="Draft multiplier. Higher values will make drafting more effective." />
+    </settings>
+</meta>

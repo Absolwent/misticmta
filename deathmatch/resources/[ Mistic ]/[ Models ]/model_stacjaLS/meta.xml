@@ -1,0 +1,11 @@
+<meta>
+	<script src="replace.lua" type="client" cache="false" author="Mati9090" />
+
+
+    <file src="stacja.txd" />
+    <file src="stacja.dff" />
+    <file src="stacja.col" /> 
+
+
+	
+	</meta>

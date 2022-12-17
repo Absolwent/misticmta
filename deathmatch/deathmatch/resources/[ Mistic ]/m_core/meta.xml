@@ -1,0 +1,35 @@
+<meta>
+        <file src="files/logo.png"/>
+        <file src="files/intro.mp3"/>
+        <file src="files/introSound.mp3"/>
+        <file src="files/message.mp3"/>
+        <file src="files/switch1.mp3"/>
+        <file src="files/switch2.mp3"/>
+        <file src="files/switch3.mp3"/>
+
+        <file src="files/font.otf"/>
+
+	<script src="s_player.lua" type="server"/>
+
+	<script src="s_blips.lua" type="server"/>
+
+	<script src="c_cutscene.lua" type="client" cache="false"/>
+
+	<script src="c_admin.lua" type="client" cache="false"/>
+	<script src="s_admin.lua" type="server"/>
+	<export function="findPlayer" type="server" />
+
+	<script src="c_cpu.lua" type="client" cache="false"/>
+	<script src="s_cpu.lua" type="server"/>
+
+	<script src="c_compass.lua" type="client" cache="false"/>
+
+	<script src="s_chat.lua" type="server"/>
+	<script src="c_chat.lua" type="client" cache="false"/>
+
+	<script src="s_cmd.lua" type="server"/>
+	<script src="c_cmd.lua" type="client" cache="false"/>
+
+	<script src="s_core.lua" type="server"/>
+	<script src="c_core.lua" type="client" cache="false"/>
+</meta>

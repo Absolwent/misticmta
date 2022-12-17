@@ -1,0 +1,5 @@
+<meta>
+  <file src='capibara.dff' />
+  <file src='capibara.txd' />
+  <script src="c.lua" type="client" cache="false"/>
+</meta>

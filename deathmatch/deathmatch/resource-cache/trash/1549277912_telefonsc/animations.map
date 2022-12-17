@@ -1,0 +1,54 @@
+<map>
+	<animationCategory id="Danças">
+
+		<animation id="STRIP 1" block="STRIP" code="strip_A" />
+		<animation id="STRIP 2" block="STRIP" code="strip_B" />
+		<animation id="STRIP 3" block="STRIP" code="strip_C" />
+		<animation id="STRIP 4" block="STRIP" code="strip_D" />
+		<animation id="STRIP 5" block="STRIP" code="strip_E" />
+		<animation id="STRIP 6" block="STRIP" code="strip_F" />
+		<animation id="STRIP 7" block="STRIP" code="strip_G" />
+		<animation id="Dança 1" block="DANCING" code="bd_clap" />
+		<animation id="Dança 2" block="DANCING" code="bd_clap1" />
+		<animation id="Dança 3" block="DANCING" code="Dança_loop" />
+		<animation id="Dança 4" block="DANCING" code="DAN_Down_A" />
+		<animation id="Dança 5" block="DANCING" code="DAN_Left_A" />
+		<animation id="Dança 6" block="DANCING" code="DAN_Loop_A" />
+		<animation id="Dança 7" block="DANCING" code="DAN_Right_A" />
+		<animation id="Dança 8" block="DANCING" code="DAN_Up_A" />
+		<animation id="Dança 9" block="DANCING" code="dnce_M_a" />
+		<animation id="Dança 10" block="DANCING" code="dnce_M_b" />
+		<animation id="Dança 11" block="DANCING" code="dnce_M_c" />
+		<animation id="Dança 12" block="DANCING" code="dnce_M_d" />
+		<animation id="Dança 13" block="DANCING" code="dnce_M_e" />
+	</animationCategory>
+	
+	<animationCategory id="Sentar">
+		<animation id="Sentar 1" block="BEACH" code="bather" />
+		<animation id="Sentar 2" block="BEACH" code="Lay_Bac_Loop" />
+		<animation id="Sentar 3" block="BEACH" code="ParkSentar_M_loop" />
+		<animation id="Sentar 4" block="BEACH" code="ParkSentar_W_loop" />
+		<animation id="Sentar 5" block="BEACH" code="SentarnWait_loop_W" />
+	</animationCategory>
+	
+	<animationCategory id="Engraçadas">
+		<animation id="Dormir" block="CRACK" code="crckidle2" />
+		<animation id="Fuck" block="ped" code="fucku" />
+		<animation id="Falar" block="GANGS" code="prtial_gngtlkC" />
+		<animation id="Falando Cel." block="ped" code="phone_talk" />
+		<animation id="Crack 1" block="CRACK" code="crckidle1" />
+		<animation id="Crack 2" block="CRACK" code="crckidle3" />
+		<animation id="Crack 3" block="CRACK" code="crckidle4" />
+	</animationCategory>
+	
+		<animationCategory id="Outros">
+		<animation id="Outras 01" block="TEC" code="TEC_fire" />
+		<animation id="Outras 2" block="WUZI" code="CS_Dead_guy" />
+		<animation id="Outras 3" block="RYDER" code="RYD_Die_PT2" />
+		<animation id="Outras 4" block="SWORD" code="sword_IDLE" />
+		<animation id="Outras 5" block="SUNBATHE" code="ParkSentar_M_IdleA" />
+		<animation id="Outras 6" block="STRIP" code="STR_B2C" />
+		<animation id="Outras 7" block="BD_FIRE" code="M_smklean_loop" />
+	</animationCategory>
+	
+</map>

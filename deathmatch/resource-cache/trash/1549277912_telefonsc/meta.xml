@@ -1,0 +1,26 @@
+<meta>
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"  cache="false"/>
+	<map src="animations.map" />	
+	<file src="files/animation.png"/>
+	<file src="files/Calculadora.png"/>	
+	<file src="files/mecanico.png"/>	
+	<file src="files/samu.png"/>	
+	<file src="files/uber.png"/>	
+	<file src="files/EnviarLoc.png"/>
+	<file src="files/internet.png"/>	
+	<file src="files/phonse.png"/>	
+	<file src="files/wanted.png"/>	
+	<file src="files/Wakeup.mp3" />
+	<file src="Message.mp3" />
+	<file src="files/EnviarDinheiro.png"/>
+	<file src="files/MinhasInformacoes.png"/>	
+	<file src="files/Whatsapp.png"/>	
+	<file src="files/backgroud.PNG" />
+	<file src="files/red.png" />
+	<file src="files/linkbar.PNG" />
+	<file src="files/squareBG.PNG" />
+	<file src="files/font.ttf"/>
+	<file src="gfx/font/font_EditBox.ttf" />
+	<file src="gfx/font/font.ttf" />	
+</meta>

@@ -1,0 +1,61 @@
+<map edf:definitions="editor_main">
+    <object id="object (BinNt07_LA) (1)" doublesided="false" model="1337" interior="0" dimension="0" posX="-2032.8000488281" posY="164.60000610352" posZ="28.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (BinNt07_LA) (2)" doublesided="false" model="1337" interior="0" dimension="0" posX="-2032.7998046875" posY="163.69921875" posZ="28.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (facttanks_SFSe08) (1)" doublesided="false" model="11293" interior="0" dimension="0" posX="-2051.3999023438" posY="146" posZ="33.5" rotX="0" rotY="0" rotZ="89.720092773438"></object>
+    <object id="object (fire_hydrant) (1)" doublesided="false" model="1211" interior="0" dimension="0" posX="-2026.5" posY="153.10000610352" posZ="28.39999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fire_hydrant) (2)" doublesided="false" model="1211" interior="0" dimension="0" posX="-2026.5" posY="160.30000305176" posZ="28.39999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_EXT_SPRUNK) (1)" doublesided="false" model="955" interior="0" dimension="0" posX="-2032.9000244141" posY="154" posZ="28.5" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (satdishsml) (3)" doublesided="false" model="1596" interior="0" dimension="0" posX="-2035.4000244141" posY="152" posZ="35.299999237061" rotX="0" rotY="0" rotZ="130"></object>
+    <object id="object (satdishsml) (4)" doublesided="false" model="1596" interior="0" dimension="0" posX="-2035.4000244141" posY="163.5" posZ="35.299999237061" rotX="0" rotY="0" rotZ="129.99572753906"></object>
+    <object id="object (aw_streettree1) (1)" doublesided="false" model="792" interior="0" dimension="0" posX="-2036.5" posY="174.69999694824" posZ="28.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree1) (2)" doublesided="false" model="792" interior="0" dimension="0" posX="-2031.8000488281" posY="174.69999694824" posZ="28.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree1) (3)" doublesided="false" model="792" interior="0" dimension="0" posX="-2034" posY="139.89999389648" posZ="28.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree1) (4)" doublesided="false" model="792" interior="0" dimension="0" posX="-2042.5" posY="139.89999389648" posZ="28.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (aw_streettree1) (6)" doublesided="false" model="792" interior="0" dimension="0" posX="-2018.69921875" posY="120.8994140625" posZ="27.39999961853" rotX="0" rotY="0" rotZ="0"></object>	
+	<!-- Кабинет -->
+	<object dimension="0" interior="0" model="1502" owner="zeedStance" posX="-2046.9282" posY="159.89993" posZ="27.935938" rotX="0.80000001" rotY="0.80000001" rotZ="247.58615"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2043.9376" posY="160.92525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2043.9376" posY="158.72525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2043.9376" posY="156.42525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2043.9376" posY="154.22525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.3376" posY="161.12524" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.3376" posY="157.42525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.3376" posY="155.42525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.3376" posY="153.92525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.0847" posY="155.72525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.0847" posY="154.02525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.0847" posY="154.32524" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.0847" posY="157.52525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2041.0847" posY="153.22525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="161.02525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="158.92525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="157.32524" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="156.02525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="154.62524" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="152.92525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="2395" owner="zeedStance" posX="-2039.4094" posY="151.42525" posZ="31.415539" rotX="-89.199997" rotY="0.80000001" rotZ="180.8"></object>
+    <object dimension="0" interior="0" model="1776" owner="zeedStance" posX="-2040.1787" posY="182.01968" posZ="28.137577" rotX="0" rotY="0" rotZ="358.85938"></object>
+    <object dimension="0" interior="0" model="1775" owner="zeedStance" posX="-2041.9491" posY="182.01764" posZ="28.937744" rotX="0.40000001" rotY="0" rotZ="357.89566"></object>
+    <object dimension="0" interior="0" model="2166" owner="zeedStance" posX="-2039.9893" posY="152.91147" posZ="27.835938" rotX="0" rotY="0" rotZ="180.45802"></object>
+    <object dimension="0" interior="0" model="2165" owner="zeedStance" posX="-2040.0153" posY="153.37901" posZ="27.835938" rotX="0" rotY="0" rotZ="270.67551"></object>
+    <object dimension="0" interior="0" model="2164" owner="zeedStance" posX="-2039.5599" posY="160.28366" posZ="27.835938" rotX="0" rotY="0" rotZ="269.73288"></object>
+    <object dimension="0" interior="0" model="2164" owner="zeedStance" posX="-2039.5774" posY="159.47331" posZ="31.035938" rotX="0.80000001" rotY="180" rotZ="269.89835"></object>
+    <object dimension="0" interior="0" model="2312" owner="zeedStance" posX="-2039.3925" posY="156.6707" posZ="30.035938" rotX="0.40000001" rotY="360.79999" rotZ="270.1485"></object>
+    <object dimension="0" interior="0" model="2607" owner="zeedStance" posX="-2045.7383" posY="161.54893" posZ="28.235937" rotX="0.40000001" rotY="360.79999" rotZ="-0.39550781"></object>
+    <object dimension="0" interior="0" model="2226" owner="zeedStance" posX="-2045.934" posY="161.6572" posZ="28.635937" rotX="0.40000001" rotY="360.79999" rotZ="-173.5955"></object>
+    <object dimension="0" interior="0" model="2356" owner="zeedStance" posX="-2040.8209" posY="152.80592" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-97.678055"></object>
+    <object dimension="0" interior="0" model="1829" owner="zeedStance" posX="-2042.269" posY="151.99643" posZ="28.335938" rotX="0.40000001" rotY="360.79999" rotZ="-179.82582"></object>
+    <object dimension="0" interior="0" model="2292" owner="zeedStance" posX="-2046.1368" posY="151.8671" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-267.62015"></object>
+    <object dimension="0" interior="0" model="2292" owner="zeedStance" posX="-2045.1373" posY="151.90164" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-178.82014"></object>
+    <object dimension="0" interior="0" model="2291" owner="zeedStance" posX="-2046.1541" posY="152.36679" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-267.22015"></object>
+    <object dimension="0" interior="0" model="2291" owner="zeedStance" posX="-2046.1886" posY="153.3662" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-267.22015"></object>
+    <object dimension="0" interior="0" model="2291" owner="zeedStance" posX="-2046.2231" posY="154.3656" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-267.22015"></object>
+    <object dimension="0" interior="0" model="2291" owner="zeedStance" posX="-2046.2577" posY="155.36501" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-267.22015"></object>
+    <object dimension="0" interior="0" model="2292" owner="zeedStance" posX="-2046.306" posY="156.76418" posZ="27.835938" rotX="0.40000001" rotY="360.79999" rotZ="-357.62015"></object>
+    <object dimension="0" interior="0" model="970" owner="zeedStance" posX="-2036.3103" posY="176.27814" posZ="28.342932" rotX="0" rotY="0" rotZ="179.18237"></object>
+    <object dimension="0" interior="0" model="970" owner="zeedStance" posX="-2032.2107" posY="176.21964" posZ="28.342932" rotX="0" rotY="0" rotZ="179.18237"></object>
+    <object dimension="0" interior="0" model="970" owner="zeedStance" posX="-2036.3588" posY="172.87848" posZ="28.342932" rotX="0" rotY="0" rotZ="179.18237"></object>
+    <object dimension="0" interior="0" model="970" owner="zeedStance" posX="-2030.1453" posY="174.13977" posZ="28.335938" rotX="0" rotY="0" rotZ="88.801559"></object>
+    <object dimension="0" interior="0" model="970" owner="zeedStance" posX="-2032.2659" posY="172.40591" posZ="28.335938" rotX="0" rotY="0" rotZ="349.78729"></object>
+	<!-- Кабинет -->
+</map>

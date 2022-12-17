@@ -1,0 +1,12 @@
+<meta>
+	<info author="EnemyChad [Forseti RPG]" version="1.0" name="San Andreas Weather Cycle" type="script"/>
+	<oop>true</oop>
+
+	<settings>
+		<setting name="Weather Cycle Minutes" value="[30]" />
+	</settings>	
+
+	<script src="cities.lua" type="shared" />
+	<script src="c.lua" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

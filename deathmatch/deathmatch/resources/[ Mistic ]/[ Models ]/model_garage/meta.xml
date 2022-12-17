@@ -1,0 +1,6 @@
+<meta>
+    <script src="replace.lua" type="client" cache="false" />
+    <file src="garage.txd" />
+    <file src="garage.dff" />
+    <file src="garage.col" />
+</meta>

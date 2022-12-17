@@ -1,0 +1,6 @@
+<meta>
+    <script src="client.lua" type="client"/>
+    <file src="avtoshkola.txd" type="client"/>
+    <file src="avtoshkola.dff" type="client"/>
+    <file src="avtoshkola.col" type="client"/>
+</meta>

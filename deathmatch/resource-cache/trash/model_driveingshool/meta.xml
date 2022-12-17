@@ -1,0 +1,5 @@
+<meta>
+    <map src="school.map" dimension="0"></map>
+    <script src="map_s.lua" type="server"></script>
+    <script src="map_c.lua" type="client"></script>
+</meta>

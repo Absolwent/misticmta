@@ -1,0 +1,5 @@
+<meta>
+<info author="MTA Resource Massive Replacement" description="www.mta-resource.ru" version="1.3" type="script" />
+<script src="client.lua" type="client"/>
+<file src="lanpolicecp.txd" type="client"/>
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+    <script src="client.luac" type="client"cache="false"/>
+    <file src="shader.fx" />
+</meta>

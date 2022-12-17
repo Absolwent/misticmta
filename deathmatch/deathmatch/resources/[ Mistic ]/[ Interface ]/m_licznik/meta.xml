@@ -1,0 +1,29 @@
+<meta>
+	<script src="c.lua" type="client" cache="false" />
+
+	<file src="fx/hou_circle.fx" type="client" />
+	<file src="fx/hud_mask.fx" type="client" />
+	<file src="fx/mask3d.fx" type="client" />
+	<file src="fx/tex_matrix.fx" type="client" />
+	<script src='fx/hou_circle.lua' type='client' cache='false' />
+	
+	<file src="files/image/main.png" />
+	<file src="files/image/prev.png" />
+	<file src="files/image/typ.png" />
+	<file src="files/image/speed.png" />
+	<file src="files/image/fuel.png" />
+	<file src="files/image/right.png" />
+	<file src="files/image/left.png" />
+	<file src="files/image/light.png" />
+	<file src="files/image/engine.png" />
+	<file src="files/image/door.png" />
+	<file src="files/image/vehicle.png" />
+
+	<file src="files/poor/SPEEDOM0.png"/>
+	<file src="files/poor/SPEEDOM1.png"/>
+	<file src="files/poor/ARROWB0.png"/>
+	<file src="files/poor/ARROWB1.png"/>
+	<file src="files/poor/ARROWN0.png"/>
+	<file src="files/poor/ARROWN1.png"/>
+	<file src="files/poor/ICON2.png"/>
+</meta>

@@ -1,0 +1,68 @@
+<meta>
+	<oop>true</oop>
+
+	<script type='shared' src='Shared/shared.lua'/>
+	<script type='client' src='Client/util.lua'/>
+	<script type='client' src='Client/main_ui.lua'/>
+	<script type='client' src='Client/main_f3.lua'/>
+	<script type='client' src='shader/shader.lua'/>
+	<script type='server' src='Server/database.lua'/>
+	<script type='server' src='Server/server.lua'/>
+
+	<file src='shader/shader.fx'/>
+	<file src='files/images/bg_cars_grid.png'/>
+	<file src='files/images/bg_colors.png'/>
+	<file src='files/images/veh_info.png'/>
+	<file src='files/images/bg_info.png'/>
+	<file src='files/images/bg_set.png'/>
+	<file src='files/images/buy_icon.png'/>
+	<file src='files/images/cadillac.png'/>
+	<file src='files/images/close.png'/>
+	<file src='files/images/close_icon.png'/>
+	<file src='files/images/icon_close.png'/>
+	<file src='files/images/money.png'/>
+	<file src='files/images/progress.png'/>
+	<file src='files/images/test_icon.png'/>
+	<file src='files/images/bg.png'/>
+	<file src='files/images/bg_rec.png'/>
+	<file src='files/images/progress_1.png'/>
+	<file src='files/images/item_bg_active.png'/>
+	<file src='files/images/item_bg_shadow.png'/>
+
+	<file src='files/images/f3/bg.png'/>
+	<file src='files/images/f3/bg_grid.png'/>
+	<file src='files/images/f3/btn.png'/>
+	<file src='files/images/f3/Line.png'/>
+	<file src='files/images/f3/line_hover.png'/>
+	<file src='files/images/f3/button.png'/>
+	<file src='files/images/f3/scroll_bg.png'/>
+	<file src='files/images/f3/scroll.png'/>
+
+	<file src='files/images/vehicles/400.png'/>
+	<file src='files/images/vehicles/401.png'/>
+	<file src='files/images/vehicles/402.png'/>
+	<file src='files/images/vehicles/404.png'/>
+	<file src='files/images/vehicles/405.png'/>
+	<file src='files/images/vehicles/410.png'/>
+	<file src='files/images/vehicles/411.png'/>
+	<file src='files/images/vehicles/415.png'/>
+	<file src='files/images/vehicles/418.png'/>
+	<file src='files/images/vehicles/547.png'/>
+	<file src='files/images/vehicles/550.png'/>
+
+
+	<file src='files/images/colors/bel.png'/>
+	<file src='files/images/colors/blue.png'/>
+	<file src='files/images/colors/dark.png'/>
+	<file src='files/images/colors/g.png'/>
+	<file src='files/images/colors/green.png'/>
+	<file src='files/images/colors/orange.png'/>
+	<file src='files/images/colors/purple.png'/>
+	<file src='files/images/colors/red.png'/>
+	<file src='files/images/colors/ser.png'/>
+
+	<file src='files/fonts/proximanova.ttf'/>
+	<file src='files/fonts/manrope_medium.ttf'/>
+
+
+</meta>

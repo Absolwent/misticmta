@@ -1,0 +1,10 @@
+<meta>
+	<file src="assets/info.png" />
+	<file src="assets/success.png" />
+	<file src="assets/error.png" />
+	<file src="assets/punishment.png" />
+	<file src="assets/font.ttf" />
+	<file src="assets/sounds/info.mp3"/>
+
+	<script src="client.lua" type="client" cache="false" />
+</meta>

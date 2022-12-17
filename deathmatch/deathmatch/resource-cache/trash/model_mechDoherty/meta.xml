@@ -1,0 +1,13 @@
+<meta>
+    <info author="zeedStance" description="Garage by zeedStace" version="1.0" type="script" />
+    <!-- <file src="music.mp3" /> --> <!-- Это файл музыки, его нет! Если поставите, раскоментируйте строку и отредактируйте файл "music.lua" поменяв ссылку на music.mp3 -->
+    <script src="music.lua" type="client" />
+    <script src="replace.lua" type="client" />
+	<script src="client.lua" type="server" />
+	<map src="object.map" dimension="0"></map>
+    <file src="data/hubprops6_SFSe.col" />
+    <file src="data/hubprops1_SFS.col" />
+	<file src="data/oldgarage_sfse.txd" />
+	<file src="data/hubint1_sfse.txd" />
+	<file src="data/hubint2.txd" />
+</meta>

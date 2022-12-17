@@ -1,0 +1,46 @@
+<help popup="yes">
+G&amp;T &amp; Loki's Cinema Experience - Beta ver. 2.0
+
+Follow G&amp;T on Facebook: https://fb.com/gtmapping
+
+To discuss and/or report any issues or feedback, please visit our offial release thread:
+http://bit.ly/2ajlgPv
+or leave a message on G&amp;T's Facebook page (link above).
+
+Contact Loki on the MTA forums:
+http://bit.ly/2aDgNDD
+
+----------------------------
+How it works
+----------------------------
+
+For players:
+
+Head to the red dragon marker on your map (San Fierro) and enter the cinema. When inside, find a nice place to sit or stand rather and press F2. Now browse to your favorite YouTube video and click on 'ADD' to add it to the queue. It will start playing on the big screen right away. You can browse for more videos and add them as well. Make sure you pause the video in the browser so you don't have two videos playing at the same time.
+Select a video from the playlist and click on 'REMOVE' to remove it from the queue or click on 'PLAY' to view the video in the browser.
+
+For admins:
+
+Before adding videos to the playlist, you must grant the resource admin acl access and you must also add yourself to the VIP list. To do that, go to the settings tab, then click on the visitors list and select yourself. When selected click on the 'Add/remove VIP' button. That's it. For more help read the instructions on our official MTA thread.
+
+----------------------------
+Commands
+----------------------------
+
+Global Commands:
+
+F2 - Open/closes the browser
+M or /muteit - Mutes/unmutes playback
+/play [url] - Adds a valid YouTube url to the playlist. Accepts most types of YouTube urls.
+/playlist - Shows the playlist in the chatbox
+/geturl - Gets the url of the current video
+/proper - Adjusts the width of the screen making it look more normal
+
+VIP/Admin Commands:
+
+/replay - Replay the current video
+/skipvideo - Force skip the current video
+/remove [number] - Removes a video from the playlist
+/stopplay - Stops playback for everyone and clears the playlist
+
+</help>

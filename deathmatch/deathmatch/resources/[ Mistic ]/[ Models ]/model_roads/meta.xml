@@ -1,0 +1,29 @@
+	<meta>
+	<info author="MrSolo" description="This script fixes roads for RP servers" type="map" version="1.5.0"></info>
+    <script src="replace.lua" type="client" />
+	<file src="6118.dff" />
+	<file src="6118.col" />
+	<file src="6116.dff" />
+	<file src="6116.col" />
+	<file src="6309.dff" />
+	<file src="6309.col" />
+	<file src="6310.dff" />
+	<file src="6310.col" />
+	<file src="6127.dff" />
+	<file src="6127.col" />
+	<file src="6122.dff" />
+	<file src="6122.col" />
+	<file src="13752.dff" />
+	<file src="13752.col" />
+	<file src="5124.dff" />
+	<file src="5124.col" />
+	<file src="4846.dff" />
+	<file src="4846.col" />
+	<file src="4831.dff" />
+	<file src="4831.col" />
+	<file src="5036.dff" />
+	<file src="5036.col" />
+    <map src="fixroad-map.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

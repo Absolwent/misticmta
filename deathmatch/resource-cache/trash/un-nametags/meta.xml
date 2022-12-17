@@ -1,0 +1,18 @@
+<meta>
+<oop>true</oop>
+    <script src="c.lua" type="client" cache="false"/>
+    <script src="s.lua" type="server"/>
+    <script src="shared.lua" type="shared" cache="false"/>
+    <file src="roboto_light.ttf" />
+    <file src="img/rcon.png"/>
+    <file src="img/sadmin.png"/>
+    <file src="img/admin.png"/>
+    <file src="img/jadmin.png"/>
+    <file src="img/mod.png"/>
+    <file src="img/kmod.png"/>
+    <file src="img/vip.png"/>
+    <file src="img/czat.png"/>
+        <file src="img/hp.png"/>
+        <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+    <export function="getIdleTimePlayer" type="shared"/>
+</meta>

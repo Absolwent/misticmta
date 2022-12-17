@@ -1,0 +1,75 @@
+<meta>
+    <info author="(( Enix Game Development Team ))" name="Phone System" description="Call And Others Options Of Phone" version="1.2.0" type="script" />
+    <script src="Scripts/Phone-System_S.luac" type="server" />
+    <script src="Scripts/Phone-System_C.luac" type="client" cache="false" />
+    
+    <file src="Files/Textures/ChangeName.png" />
+    <file src="Files/Textures/A_D_Call.png" />
+    <file src="Files/Textures/Balance.png" />
+    <file src="Files/Textures/Battry.png" />
+    <file src="Files/Textures/BuyCredit.png" />
+    <file src="Files/Textures/Calculator.png" />
+    <file src="Files/Textures/Call.png" />
+    <file src="Files/Textures/Calling.png" />
+    <file src="Files/Textures/Click.png" />
+    <file src="Files/Textures/Factions.png" />
+    <file src="Files/Textures/GPS.png" />
+    <file src="Files/Textures/HomeButton.png" />
+    <file src="Files/Textures/IphoneX_Main.png" />
+    <file src="Files/Textures/Music.png" />
+    <file src="Files/Textures/Page1.png" />
+    <file src="Files/Textures/Page2.png" />
+    <file src="Files/Textures/Payment.png" />
+    <file src="Files/Textures/Record.png" />
+    <file src="Files/Textures/Settings.png" />
+    <file src="Files/Textures/Signal.png" />
+    <file src="Files/Textures/Skills.png" />
+    <file src="Files/Textures/Transfer.png" />
+    <file src="Files/Textures/WiFi.png" />
+    <file src="Files/Textures/Locate.png" />
+    <file src="Files/Textures/House.png" />
+    <file src="Files/Textures/Faction.png" />
+    <file src="Files/Textures/Civilian.png" />
+    <file src="Files/Textures/Clan.png" />
+    <file src="Files/Textures/Play.png" />
+    <file src="Files/Textures/Set.png" />
+    <file src="Files/Font/font.ttf" />
+    <file src="Files/Textures/MainShop.png" />
+    <file src="Files/Textures/MainShop2.png" />
+    
+    <file src="Files/Sounds/inCall.mp3" />
+    <file src="Files/Sounds/CallDone.mp3" />
+    <file src="Files/Sounds/hangup.mp3" />
+    
+    <file src="Files/cellphone.dff" />
+    <file src="Files/cellphone.txd" />
+    <file src="Files/Sounds/0.mp3" />
+    <file src="Files/Sounds/1.mp3" />
+    <file src="Files/Sounds/2.mp3" />
+    <file src="Files/Sounds/3.mp3" />
+    <file src="Files/Sounds/4.mp3" />
+    <file src="Files/Sounds/5.mp3" />
+    <file src="Files/Sounds/6.mp3" />
+    <file src="Files/Sounds/7.mp3" />
+    <file src="Files/Sounds/8.mp3" />
+    <file src="Files/Sounds/9.mp3" />
+    <file src="Files/Sounds/Touch.ogg" />
+    <file src="Files/Sounds/Ringtune1.mp3" />
+    <file src="Files/Sounds/Ringtune2.mp3" />
+    <file src="Files/Sounds/Ringtune3.mp3" />
+    <file src="Files/Sounds/Ringtune4.mp3" />
+    <file src="Files/Sounds/Ringtune5.mp3" />
+    <file src="Files/Sounds/Ringtune6.mp3" />
+    <file src="Files/Sounds/Ringtune7.mp3" />
+    <file src="Files/Sounds/Ringtune8.mp3" />
+    <file src="Files/Sounds/Ringtune9.mp3" />
+    <file src="Files/Sounds/Ringtune10.mp3" />
+    <file src="Files/Sounds/Ringtune11.mp3" />
+    <file src="Files/Sounds/Ringtune12.mp3" />
+    <file src="Files/Sounds/Smstune1.mp3" />
+    <file src="Files/Sounds/Smstune2.mp3" />
+    <file src="Files/Sounds/Smstune3.mp3" />
+    <file src="Files/Sounds/Smstune4.mp3" />
+    <file src="Files/Sounds/Smstune5.mp3" />
+    <export type="server" function="getCallState" />
+</meta>

@@ -1,0 +1,20 @@
+<meta>
+
+	<script src="script.lua" type="client" />
+    <script src="remover.lua" type="server"/> 
+     
+	 <file src="0.txd" />
+     <file src="0.dff" />
+     <file src="0.col" />
+	 
+     <file src="01.dff" />
+     <file src="01.col" />
+	 
+     <file src="02.dff" />
+     <file src="02.col" />
+	 
+
+    <file src="03.dff" />
+
+
+</meta>

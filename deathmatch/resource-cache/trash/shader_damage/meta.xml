@@ -1,0 +1,10 @@
+<meta>
+	<oop>true</oop>
+	
+	<script src="client.lua" type="client" cache="false"/>
+	
+	<file src="res/Shaders/damage.fx" type="client"/>
+	
+	<file src="res/Sounds/heartbeat.ogg" type="client"/>
+	<file src="res/Sounds/tinnitus.ogg" type="client"/>
+</meta>

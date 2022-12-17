@@ -1,0 +1,38 @@
+<meta>
+    <script src='systems/c_anim.lua' type='client' cache='false'/>
+    <script src='systems/client.lua' type='client' cache='false'/>
+
+    <file src='images/standard/background.png'/>
+    <file src='images/standard/arrow.png'/>
+    <file src='images/standard/arrow_fuel.png'/>
+    <file src='images/standard/dirt.png'/>
+
+    <file src='images/motorcycle/background.png'/>
+    <file src='images/motorcycle/arrow_rpm.png'/>
+    <file src='images/motorcycle/arrow_health.png'/>
+    <file src='images/motorcycle/arrow_fuel.png'/>
+
+    <file src='images/sport/background.png'/>
+    <file src='images/sport/background_fuel.png'/>
+    <file src='images/sport/arrow_fuel.png'/>
+    <file src='images/sport/arrow_speedo.png'/>
+    <file src='images/sport/arrow_rpm.png'/>
+
+    <file src='images/icons/seatbelt_on.png'/>
+    <file src='images/icons/seatbelt_off.png'/>
+    <file src='images/icons/light_on.png'/>
+    <file src='images/icons/light_off.png'/>
+    <file src='images/icons/indicator_right_on.png'/>
+    <file src='images/icons/indicator_right_off.png'/>
+    <file src='images/icons/indicator_left_on.png'/>
+    <file src='images/icons/indicator_left_off.png'/>
+    <file src='images/icons/handbrake_on.png'/>
+    <file src='images/icons/handbrake_off.png'/>
+    <file src='images/icons/engine_on.png'/>
+    <file src='images/icons/engine_off.png'/>
+
+
+    <file src='fonts/OpenSans-Regular.ttf'/>
+    <file src='fonts/OpenSans-Bold.ttf'/>
+
+</meta>

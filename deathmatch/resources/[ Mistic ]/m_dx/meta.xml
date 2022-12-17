@@ -1,0 +1,15 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<file src="f/Montserrant_b.ttf"/>
+	<file src="f/Roboto-Italic.ttf"/>
+	<file src="f/Roboto-Light.ttf"/>
+	<file src="f/Roboto-Medium.ttf"/>
+	<file src="f/Montserrant_r.ttf"/>
+	<file src="f/Roboto-Thin.ttf"/>
+	<file src="f/Roboto-BoldItalic.ttf"/>
+
+	<export function="getFont" type="client"/>
+
+	<download_priority_group>1</download_priority_group>
+</meta>

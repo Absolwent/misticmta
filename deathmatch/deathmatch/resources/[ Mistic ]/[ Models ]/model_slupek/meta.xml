@@ -1,0 +1,6 @@
+<meta>
+<script src="replace.lua" type="client" />
+<file src="modele/slupek.txd" />
+<file src="modele/slupek.dff" />
+<file src="modele/slupek.col" />
+</meta>

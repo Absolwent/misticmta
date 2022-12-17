@@ -1,0 +1,7 @@
+<meta>
+<include resource="m_core"/>
+<script src="client.lua" type="client"/>
+<file src="object.txd" type="client"/>
+<file src="object.dff" type="client"/>
+<file src="object.col" type="client"/>
+</meta>

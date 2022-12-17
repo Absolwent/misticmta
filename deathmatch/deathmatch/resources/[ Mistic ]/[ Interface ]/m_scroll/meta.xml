@@ -1,0 +1,12 @@
+<meta>
+	<script src="client/scroll_client.lua" type="client" cache="false"/>
+
+	<file src="assets/images/circle.png"/>
+
+	<export function="dxCreateScroll" type="client"/>
+	<export function="dxDestroyScroll" type="client"/>
+	<export function="dxScrollGetPosition" type="client"/>
+	<export function="dxScrollUpdateTable" type="client"/>
+	<export function="dxScrollSetAlpha" type="client"/>
+	<download_priority_group>1</download_priority_group>
+</meta>
