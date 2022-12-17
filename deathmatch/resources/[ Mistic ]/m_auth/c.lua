@@ -211,7 +211,7 @@ addEventHandler("onClientClick", root, function(btn,state)
                     print("m_auth | Error User "..pName.." | "..pSerial.." | "..sx.."x"..sy.." - (Error type [ string len 3 character login ])")
         	    return
         	end
-        	triggerServerEvent("logging:checkAccount", resourceRoot, login, pass)
+        	triggerServerEvent("auth:check", resourceRoot, login, pass)
         end
         if isMouseIn(945*px, 790*py, 168*px, 55*py) and data.showed and getElementData(localPlayer, "auth:register") and not getElementData(localPlayer, "auth:login") then -- Rejestracja
         	local regLogin = exports["m_gui"]:dxGetEditText("regLogin")
@@ -222,7 +222,7 @@ addEventHandler("onClientClick", root, function(btn,state)
                     print("m_auth | Error User "..pName.." | "..pSerial.." | "..sx.."x"..sy.." - (Error type [ string len 22 login / string len 22 password / string len min. 3 login / string len min. 3 password ])")
         	    return
         	end
-        	triggerServerEvent("logging:newAccount", resourceRoot, regLogin, regPass, regEmail)
+        	triggerServerEvent("auth:register", resourceRoot, regLogin, regPass, regEmail)
         end
         if isMouseIn(840*px, 765*py, 200*px, 25*py) and data.showed then
             if not getElementData(localPlayer, "auth:register") or getElementData(localPlayer, "auth:register") then
