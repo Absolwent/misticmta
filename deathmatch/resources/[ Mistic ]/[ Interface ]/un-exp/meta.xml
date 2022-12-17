@@ -1,7 +1,0 @@
-<meta>
-    <script src="fileS.lua"/>
-    <script src="fileC.lua" type="client"/>
-    
-    <export function="giveExp" type="server"/>
-    <export function="importLevels" type="client"/>
-</meta>
