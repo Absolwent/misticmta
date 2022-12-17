@@ -1,6 +1,5 @@
-# MTA
-Kod źródłowy serwera Mistic MTA
+# MISTIC MTA
 
 Authors: Absolwent, Crystal, lil_Toady and other shaders, models, ui designers.
 
-Nie dokończony core dla serwera Mistic MTA. 
+Not completed core for MTA:SA Server
