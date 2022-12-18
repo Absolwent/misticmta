@@ -1,27 +1,27 @@
-local DBHandler=nil
-local DBName="stegna_user"
-local DBUser="stegna_user"
-local DBPass="OkB00mer"
-local DBHost="okB00mer"
+base = nil -- Do not touch this
 
-function dbSet(...)
-	if not {...} then return end
-	query=dbExec(DBHandler, ...)
-	return query
-end
+local SETTINGS = {
+	"misticmta_name", -- User
+	"misticmta_user", -- Name
+	"misticmta_password", -- Password
+	"misticmta_host" -- Host
+	"1" -- Can be used for Sharing ( Data Base ) [share]
+}
 
 function dbGet(...)
-	if not {...} then return end
-	query=dbQuery(DBHandler, ...)
-	result=dbPoll(query, -1)
+    if not {...} then return end
+	query = dbQuery(base, ...) -- Database query
+	result = dbPoll(query, -1) -- Data query procedure
 	return result
 end
 
-addEventHandler("onResourceStart", resourceRoot, function()
-	DBHandler=dbConnect("mysql", "dbname="..DBName..";host="..DBHost.."", DBUser, DBPass, "share=1")
-	if DBHandler then
-		outputDebugString("m_mysql | Connected to mysql")
+function checkConnect(resource)
+	local rName = getResourceName(resource)
+	base = dbConnect("mysql", "dbname="..SETTINGS[1]..";host="..SETTINGS[4].."", SETTINGS[2], SETTINGS[3], SETTINGS[5])
+	if base then
+		print(rName.." | Connected to mysql")
 	else
-		outputDebugString("m_mysql | Can't connect  to mysql")
+		print(rName.." | Connection closed")
 	end
-end)
+end
+addEventHandler("onResourceStart", resourceRoot, checkConnect)
