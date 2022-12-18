@@ -277,6 +277,4 @@ end;
 
 addEventHandler("onClientResourceStart", resourceRoot, function()
     edit:load()
-    --edit:create("test", "", "test", 300, 300, 300, 50, false, 5, 255);
-    --showCursor(true,false)
 end)
