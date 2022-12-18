@@ -1,11 +1,3 @@
---[[ 
-
-    author: Asper (© 2019)
-    mail: nezymr69@gmail.com
-    all rights reserved.
-
-]]
-
 local scroll = {}
 
 local sw,sh = guiGetScreenSize()
@@ -22,31 +14,6 @@ function isMouseInPosition(x, y, w, h)
 	end
 	return nil
 end
-
---[[
-local asd = {}
-for i = 1,12 do
-    asd[i] = i
-end
-
-local row = 1
-local sc = false
-addEventHandler("onClientRender", root,
-    function()
-        row = math.floor(scroll:getPosition(sc) + 1)
-
-        local x = 0
-        for i,v in pairs(asd) do
-            if (row + 8) >= i and row <= i then
-                x = x + 1
-
-                local sY = 40 * (x - 1)
-                dxDrawRectangle(781, 389 + sY, 359, 36, tocolor(0, 0, 0, 200), false)
-                dxDrawText(i, 781, 389 + sY, 359, 36)
-            end
-        end
-    end
-)]]
 
 function scroll:load()
     self.render_fnc = function() self:render() end
@@ -68,8 +35,6 @@ function scroll:create(x, y, w, h, row, showed, tbl, height, alpha, plus, strefa
         addEventHandler("onClientRender", root, self.render_fnc)
         addEventHandler("onClientClick", root, self.click_fnc)
         addEventHandler("onClientKey", root, self.key_fnc)
-
-        --self.textures[1]=dxCreateTexture("assets/images/circle.png", "argb", false, "clamp")
     end
 
     for i,v in pairs(self.scrolls) do
@@ -85,7 +50,6 @@ function scroll:create(x, y, w, h, row, showed, tbl, height, alpha, plus, strefa
     self.showed = true
     
     if(sourceResource)then
-		-- if source resource stop then destroy buttons
 		self.resources[sourceResource] = true
 		self.scrolls[#self.scrolls].resource = sourceResource
         addEventHandler("onClientResourceStop", getResourceRootElement(sourceResource), function(resource)
@@ -205,9 +169,6 @@ function scroll:render()
         elseif v[9] < v[3] then
             v[9] = v[3]
         end
-
-        --dxDrawRectangle(v[2], v[3], v[4], v[11], tocolor(31, 31, 42, v[13]), false)
-        --dxDrawImage(v[2]-((v[5]-v[4])/2), v[9], v[5], v[5], self.textures[1], 0, 0, 0, tocolor(255, 255, 255, v[13]), false)
 
         if(v[10] and v[7] < #v[8])then
             local max = (v[3] + (v[11] - v[5])) - v[3]
