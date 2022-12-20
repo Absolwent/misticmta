@@ -5,7 +5,7 @@ local SETTINGS = {
 	"misticmta_user", -- Name
 	"misticmta_password", -- Password
 	"misticmta_host" -- Host
-	"1" -- Can be used for Sharing ( Data Base ) [share]
+	"share=1" -- Can be used for Sharing ( Data Base ) [share]
 }
 
 function dbGet(...)
